@@ -8,11 +8,7 @@ public void update()
 {
 
 System.out.println("----updated----");
-	
+	System.out.println("hiiiiiiiii");
 }
-@Test
-public void update1()
-{
-	System.out.println("-----****-----");
-}
+
 }
