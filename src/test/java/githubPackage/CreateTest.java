@@ -10,5 +10,11 @@ public class CreateTest
 		System.out.println("----created----");
 		System.out.println("Hello I am Hello");
 	}
+	
+	@Test
+	public void modify()
+	{
+		System.out.println("----Modified----");
+	}
 
 }
