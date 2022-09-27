@@ -5,5 +5,6 @@ public class UpdateTest {
 public void update()
 {
 	System.out.println("----updated----");
+	System.out.println("Hello! It's Me");
 }
 }
