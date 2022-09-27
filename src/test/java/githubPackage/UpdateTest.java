@@ -1,12 +1,18 @@
 package githubPackage;
 
+import org.testng.annotations.Test;
 
 public class UpdateTest {
-public static void main(String[] args) {
-	
+@Test
+public void update()
+{
 
-
-	System.out.println("----updated----");
+System.out.println("----updated----");
 	
+}
+@Test
+public void update1()
+{
+	System.out.println("-----****-----");
 }
 }
